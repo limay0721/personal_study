@@ -1,1 +1,1 @@
-# personal_study
+# shior_personal_study
